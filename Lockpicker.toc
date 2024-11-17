@@ -1,0 +1,13 @@
+## Interface: 110005
+## Version: 1.0.0
+## Title: Lockpicker
+## Notes: Addon to show lockpicking locations and chest positions
+## Author: jvanhoven <contact@jvhoven.nl>
+## SavedVariables: LockpickerDB
+## OptionalDeps: Ace3
+## X-Embeds: Ace3
+
+embeds.xml
+Lockpicker.lua
+Modules/HillsbradFoothills.lua
+Modules/Ashenvale.lua
