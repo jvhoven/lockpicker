@@ -11,3 +11,4 @@ embeds.xml
 Lockpicker.lua
 Modules/HillsbradFoothills.lua
 Modules/Ashenvale.lua
+Modules/Badlands.lua

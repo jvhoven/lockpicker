@@ -54,6 +54,26 @@
         "CreateUnsecuredRegionPoolInstance",
         "MapCanvasDataProviderMixin",
         "MapCanvasPinMixin",
-        "CreateFramePool"
-    ]
+        "CreateFramePool",
+        "LOCK",
+        "message",
+        "ExecuteFrameScript",
+        "NEW_CAPS",
+        "NEW",
+        "GetAppropriateTooltip",
+        "GameTooltip_SetTitle",
+        "GameTooltip_AddInstructionLine",
+        "GameTooltip_AddNormalLine",
+        "GameTooltip_AddColoredLine",
+        "GetValueOrCallFunction",
+        "CloseMenus",
+        "VIDEO_QUALITY_LABEL6",
+        "SharedTooltip_SetBackdropStyle",
+        "GameTooltip_Hide",
+        "GameTooltip_AddErrorLine",
+        "UIDROPDOWNMENU_MAXLEVELS",
+        "DropDownMenuButtonMixin",
+        "TooltipBackdropTemplateMixin"
+    ],
+    "vim.useSystemClipboard": true
 }
